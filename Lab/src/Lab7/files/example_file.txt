@@ -1,0 +1,3 @@
+Первая строка PrintWriter
+Вторая строка PrintWriter
+Третья строка PrintWriter
