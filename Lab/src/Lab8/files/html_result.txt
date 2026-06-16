@@ -1,0 +1,2 @@
+Заголовок страницы: Example Domain
+Learn more -> https://iana.org/domains/example

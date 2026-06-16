@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<birthdays>
+        
+    <birthday>
+                
+        <name>Анна</name>
+                
+        <surname>Иванова</surname>
+                
+        <birthDate>15.03.2001</birthDate>
+                
+        <age>25</age>
+                
+        <phone>+79000000001</phone>
+            
+    </birthday>
+        
+    
+    <birthday>
+                
+        <name>Иван</name>
+                
+        <surname>Смирнов</surname>
+                
+        <birthDate>10.11.1999</birthDate>
+                
+        <age>27</age>
+                
+        <phone>+79000000003</phone>
+            
+    </birthday>
+        
+    <birthday>
+                
+        <name>Ольга</name>
+                
+        <surname>Соколова</surname>
+                
+        <birthDate>01.02.2002</birthDate>
+                
+        <age>24</age>
+                
+        <phone>+79000000004</phone>
+            
+    </birthday>
+    
+    <birthday>
+        <name>Елена</name>
+        <surname>Кузнецова</surname>
+        <birthDate>05.05.2001</birthDate>
+        <age>25</age>
+        <phone>+79000000005</phone>
+    </birthday>
+</birthdays>
